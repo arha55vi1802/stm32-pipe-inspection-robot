@@ -1,0 +1,83 @@
+=== FIVERR GIG 1 — Paste into Fiverr ===
+
+TITLE:
+I will integrate sensors with STM32 using ADC, I2C, UART (DHT11, IMU, DS18, gas, pressure)
+
+CATEGORY:
+Programming & Tech → Other → Microcontrollers (or Embedded Systems)
+
+TAGS:
+stm32, embedded, iot, sensor, firmware, arduino alternative
+
+DESCRIPTION:
+Need a temperature, gas, pressure, or IMU sensor working on STM32?
+
+I develop embedded firmware in C using STM32CubeIDE and STM32 HAL.
+
+What I can do:
+• DHT11 / DHT22 humidity & temperature
+• DS18B20 temperature
+• MPU6050 / IMU on I2C
+• MQ-series gas sensors on ADC
+• Pressure sensors (e.g. MPXV) on ADC with calibration
+• Serial debug output or live values on UART
+
+What you get:
+• Working STM32CubeIDE project (source code)
+• Pin connection notes
+• Basic test instructions
+• 1 revision for small fixes
+
+Example project: Pipe inspection robot with 7+ sensors + Ethernet dashboard (see my GitHub).
+
+Before ordering, message me:
+• Your board (e.g. Nucleo F401, Blue Pill, custom PCB)
+• Sensor model
+• How you want to see data (Serial, LCD, web, etc.)
+
+Packages suggestion:
+• Basic ($60): 1 sensor, UART print
+• Standard ($150): 1–2 sensors + filtering + documentation
+• Premium ($350): Multi-sensor integration + dashboard field (milestone plan)
+
+---
+
+=== FIVERR GIG 2 ===
+
+TITLE:
+I will build STM32 Ethernet web dashboard with W5500 for live sensor monitoring
+
+DESCRIPTION:
+I create embedded web dashboards on STM32 using W5500 Ethernet module.
+
+Features:
+• HTTP server on STM32 (no Raspberry Pi required for UI)
+• Live sensor values in browser
+• Control buttons (motors, relays, calibration)
+• Non-blocking sensor reads (stable connection)
+
+Deliverables:
+• Firmware source (CubeIDE)
+• Wiring notes (SPI to W5500)
+• How to set PC IP and open dashboard
+
+Based on my pipe-inspection robot project (GitHub link in profile).
+
+Message me your STM32 model and sensor list first.
+
+---
+
+=== LINKEDIN POST (copy) ===
+
+I completed an STM32-based pipe inspection robot firmware:
+
+✅ 4-motor UART control + encoders
+✅ DHT11, DS18B20, MQ-4, differential pressure, MPU6050
+✅ W5500 Ethernet live web dashboard
+✅ Encoder + IMU Kalman odometry (~2.6% error on 1.56 m test)
+
+Open to freelance work: sensor integration, STM32 debugging, embedded IoT dashboards.
+
+GitHub: [paste your repo link here]
+
+#embedded #stm32 #iot #freelance #robotics

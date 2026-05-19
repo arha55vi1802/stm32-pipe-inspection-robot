@@ -1,0 +1,7 @@
+Put 3 PNG or JPG files here for your GitHub portfolio:
+
+1. dashboard.png   — browser screenshot of live dashboard
+2. hardware.png  — photo of robot / Nucleo + wiring
+3. demo.png      — optional: motors or pipe test
+
+Then commit in GitHub Desktop with message: "Add portfolio images"
