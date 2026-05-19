@@ -1,7 +1,9 @@
-Put 3 PNG or JPG files here for your GitHub portfolio:
+Add 2–3 images here, then commit + push:
 
-1. dashboard.png   — browser screenshot of live dashboard
-2. hardware.png  — photo of robot / Nucleo + wiring
-3. demo.png      — optional: motors or pipe test
+  dashboard.png   Browser screenshot of http://169.254.52.10/
+  hardware.png    Photo of Nucleo + robot wiring
+  demo.png        Optional: pipe test or motors running
 
-Then commit in GitHub Desktop with message: "Add portfolio images"
+GitHub Desktop commit message:  Add portfolio images
+
+After push, open your repo on GitHub — README will show them in the Gallery table.

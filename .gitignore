@@ -1,3 +1,7 @@
+# Cursor / clangd IDE cache (never upload)
+.cache/
+**/.cache/
+
 # STM32CubeIDE build output (do not upload — very large)
 Debug/
 Release/
@@ -11,10 +15,8 @@ Release/
 *.su
 *.cyclo
 
-# IDE settings (optional)
+# IDE local settings (optional — keep .project/.cproject for CubeIDE)
 .settings/
-.cproject
-.project
 
 # OS junk
 Thumbs.db
